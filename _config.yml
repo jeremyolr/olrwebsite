@@ -1,6 +1,6 @@
 title: Open Library of Richmond
 description: Open Library of Richmond
-baseurl: ""
-url: ""
+baseurl: "/olrwebsite"
+url: "https://jeremyolr.github.io"
 markdown: kramdown
 theme: null
