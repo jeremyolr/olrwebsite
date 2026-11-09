@@ -10,4 +10,8 @@ title: Open Library of Richmond
   <p id="org" class="contact">
     Contact: <a href="mailto:info@openlibraryofrichmond.org">info@openlibraryofrichmond.org</a>
   </p>
+  <p class="officer">
+    Meikle Hall, Secretary, Open Library of Richmond<br />
+    <a href="mailto:meiklehall@openlibraryofrichmond.org">meiklehall@openlibraryofrichmond.org</a>
+  </p>
 </section>
