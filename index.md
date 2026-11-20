@@ -12,6 +12,7 @@ title: Open Library of Richmond
   </p>
   <p class="officer">
     Meikle Hall, Secretary, Open Library of Richmond<br />
-    <a href="mailto:meiklehall@openlibraryofrichmond.org">meiklehall@openlibraryofrichmond.org</a>
+    <a href="mailto:meiklehall@openlibraryofrichmond.org">meiklehall@openlibraryofrichmond.org</a><br />
+    319 Main Street, Biddeford, ME 04005
   </p>
 </section>
